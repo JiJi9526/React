@@ -1,0 +1,25 @@
+.addTask{
+    display: flex;
+}
+
+input[type="text"]{
+    margin-bottom: 5px;
+    width: 400px;
+}
+input[type="submit"]{
+    background-color: #463e82;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    background-color: #463e82;
+}
+
+button{
+    color: white;
+}
